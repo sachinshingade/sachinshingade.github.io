@@ -1,0 +1,8 @@
+[
+  {"name": "Apple", "product": "apple", "img": "images/1.jpg", "price": "2.99"},
+  {"name":"Banana","product":"banana","img":"images/2.jpg","price":"1.99"},
+  {"name":"Mango","product":"mango","img":"images/3.jpg","price":"4.99"},
+  {"name":"Orange","product":"orange","img":"images/4.jpg","price":"1.50"},
+  {"name":"Kiwi","product":"kiwi","img":"images/5.jpg","price":"3.12"},
+  {"name":"Gauva","product":"gauva","img":"images/6.jpg","price":"0.99"}
+]
